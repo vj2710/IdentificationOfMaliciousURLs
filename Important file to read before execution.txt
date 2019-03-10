@@ -1,0 +1,5 @@
+Please follow the below instructions to run the project:
+
+1) there must be stable and continuous internet connection to allow the feature to be generated that take data from online sources.
+2) The code should not be strictly executed on concordia network as it does not allow access of some identified malicious urls.	
+3) All the packages relevant to the code as per the code files needs to be installed.
